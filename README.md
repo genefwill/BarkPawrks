@@ -1,6 +1,6 @@
-##Bark Pawrks
+**Bark Pawrks**
 
-# Introduction:
+ # Introduction:
 
 The bark pawrks team created an IOS application that enables dog owners to find dog parks in their immediate area and leave reviews to better inform dog owners. Our team did not have any previous mobile development experience, so this served as an excellent learning experience using Swift and the IOS development environment. This experience was effective in building our confidence with a new development framework and working with a group to develop a cohesive project. As a team we also learned soft skills of learning how to collaborate together and build a development plan as a group. These skills will no doubt prove to be valuable in jobs in the future. After building this iOS app the team has learned to enjoy developing with swift and Xcode and plans to further develop these skills in the future.
 
